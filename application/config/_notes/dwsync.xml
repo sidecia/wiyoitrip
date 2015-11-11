@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autoload.php" server="spvdemo.comli.com/public_html/" local="130801842000000000" remote="130801842000000000" />
+<file name="config.php" server="spvdemo.comli.com/public_html/" local="130803355200000000" remote="130803355200000000" />
+<file name="constants.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824000000000" />
+<file name="database.php" server="spvdemo.comli.com/public_html/" local="130806948974627556" remote="130806984600000000" />
+<file name="doctypes.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824000000000" />
+<file name="foreign_chars.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824000000000" />
+<file name="grocery_crud.php" server="spvdemo.comli.com/public_html/" local="130760157030338898" remote="130801824600000000" />
+<file name="hooks.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824600000000" />
+<file name="index.html" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824600000000" />
+<file name="memcached.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801824600000000" />
+<file name="migration.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801825200000000" />
+<file name="mimes.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801825200000000" />
+<file name="profiler.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801825200000000" />
+<file name="routes.php" server="spvdemo.comli.com/public_html/" local="130803301800000000" remote="130803301800000000" />
+<file name="smileys.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801825200000000" />
+<file name="user_agents.php" server="spvdemo.comli.com/public_html/" local="130743360520000000" remote="130801825200000000" />
+</dwsync>
